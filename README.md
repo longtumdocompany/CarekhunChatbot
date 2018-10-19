@@ -1,5 +1,5 @@
 # CarekhunChatbot
-Carekhun Chatbot
+Carekhun V2.0 Chatbot with Line API
 
 ## Resource for Develop
 - composer : https://getcomposer.org/download/
